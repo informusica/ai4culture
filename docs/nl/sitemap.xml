@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>ai4culture/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="ai4culture/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="ai4culture/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>ai4culture/series/</loc>
+    <loc>/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="ai4culture/en/series/"
+                href="/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="ai4culture/series/"
+                href="/series/"
                 />
   </url>
   
   <url>
-    <loc>ai4culture/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="ai4culture/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="ai4culture/tags/"
+                href="/tags/"
                 />
   </url>
   
