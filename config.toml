@@ -1,4 +1,4 @@
-baseURL                          = "informusica.github.io/ai4culture"   # Your domain name. Must end with "/"
+baseURL                          = "ai4culture/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "nl"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
