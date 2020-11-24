@@ -4,6 +4,8 @@ DefaultContentLanguage           = "nl"                    # Default language fo
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
 
+publishDir = "docs"
+
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
     favicon                      = "/img/fav.ico"          # Path to favicon file
