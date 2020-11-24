@@ -1,5 +1,5 @@
 ---
-title: "AI for the Cultural and Media Sectors"
+title: "AI for the culture and media sectors"
 headless: true
 ---
 
