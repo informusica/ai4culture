@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>informusica.github.io/ai4culture/en/</loc>
+    <loc>ai4culture/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="informusica.github.io/ai4culture/"
+                href="ai4culture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="informusica.github.io/ai4culture/en/"
+                href="ai4culture/en/"
                 />
   </url>
   
   <url>
-    <loc>informusica.github.io/ai4culture/en/series/</loc>
+    <loc>ai4culture/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="informusica.github.io/ai4culture/series/"
+                href="ai4culture/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="informusica.github.io/ai4culture/en/series/"
+                href="ai4culture/en/series/"
                 />
   </url>
   
   <url>
-    <loc>informusica.github.io/ai4culture/en/tags/</loc>
+    <loc>ai4culture/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="informusica.github.io/ai4culture/tags/"
+                href="ai4culture/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="informusica.github.io/ai4culture/en/tags/"
+                href="ai4culture/en/tags/"
                 />
   </url>
   
