@@ -10,3 +10,5 @@ U kunt dit doen voor drie vragen:
 * [Waar denkt u algemeen aan bij de term 'AI'?](https://dotstorming.com/b/5fbbce165669c54ea983a623)
 * [Wat voor soorten patronen zou u in of rond uw praktijk willen vinden of ontdekken?](https://dotstorming.com/b/5fbbd2185669c54ea983a642)
 * [Wie en/of wat zou u nodig hebben, om AI concreet in uw praktijk toe te kunnen passen?](https://dotstorming.com/b/5fbbd2b05669c54ea983a64a)
+
+We willen u vragen om **uiterlijk 3 december 2020** uw input te geven, opdat we deze in onze decemberoverleggen kunnen meenemen. Hartelijk dank!
